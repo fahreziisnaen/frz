@@ -81,6 +81,6 @@ Experienced Network Engineer with a passion for designing, implementing, and mai
 - Portfolio: [fahrezifauzan.vercel.app](https://fahrezifauzan.vercel.app)
 - Email: fahreziisnaen21@gmail.com
 - LinkedIn: [Fahrezi Fauzan](https://www.linkedin.com/in/fahrezifauzan)
-- Instagram: [@fahreziisnaen](https://github.com/fahreziisnaen)
+- Instagram: [@fahreziisnaen](https://instagram.com/fahreziisnaen)
 
 ---
