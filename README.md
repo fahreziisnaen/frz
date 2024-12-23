@@ -1,5 +1,7 @@
 # Fahrezi Fauzan - Network Engineer
 
+<img src='https://raw.githubusercontent.com/fahreziisnaen/frz/refs/heads/main/frz.png' />
+
 ## 👨‍💻 About Me
 Experienced Network Engineer with a passion for designing, implementing, and maintaining network infrastructure. Skilled in network security, troubleshooting, and optimizing network performance. Committed to ensuring reliable and secure network connectivity while following industry best practices.
 
